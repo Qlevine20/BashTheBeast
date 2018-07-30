@@ -1,0 +1,4 @@
+2/2/You’re at your friend’s house and their Mom made cookies! Should you have as many as you’d like?/B/1
+6/2/Blood testing hurts. Can you skip it?/B/4
+10/4/You’re REALLY hungry and need a snack. Which of these snacks should you eat to maintain your current steady glucose levels?/C/2
+14/4/You’re sat syour friensd’s birthday party and there are a lot of sweets! Which of these can you safely enjoy?/D/4
